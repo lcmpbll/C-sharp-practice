@@ -8,7 +8,7 @@
 
 ### Description
 
-_This is some coding practice for C#._
+_This is some coding practice for C#. A user can choose from several different options by inputting 1 - 5. 6 will exit the program. A user can find out whico option will win the most points in rock paper scissors in a set match against a computer, find out which number is in the 10s place from a two digit number, discover if their inputted number is positive and two digits. And so much more._
 
 ### Set up and installation 
 
